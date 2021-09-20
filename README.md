@@ -1,2 +1,2 @@
-# Study-Desk - Landing Page (Develop Branch)
+# Student-Hub - Landing Page (Develop Branch)
 Landing Page 
